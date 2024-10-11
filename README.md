@@ -36,9 +36,9 @@ ModernStock is a modern React-based stock tracker application that allows users 
 
 3. Create a .env file in the root directory and add your Alpha Vantage API key:
 
-  ```sh
-  REACT_APP_ALPHA_VANTAGE_API_KEY=YOUR_API_KEY
-  ```
+    ```sh
+    VITE_ALPHA_VANTAGE_API_KEY=YOUR_API_KEY
+    ```
 
 4. Start the application:
 
