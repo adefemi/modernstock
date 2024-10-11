@@ -25,7 +25,7 @@ ModernStock is a modern React-based stock tracker application that allows users 
 
    ```sh
    git clone https://github.com/adefemi/modernstock.git
-   cd ModernStock
+   cd modernstock
    ```
 
 2. Install the dependencies:
