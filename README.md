@@ -2,6 +2,9 @@
 
 ModernStock is a modern React-based stock tracker application that allows users to search for real-time stock information. The app fetches data from the Alpha Vantage API and presents it in a visually appealing, easy-to-use interface.
 
+## Deployed
+- Test app on https://modernstock.netlify.app/
+
 ## Features
 
 - **Search Stock Symbols**: Users can search for stock symbols like AAPL (Apple), TSLA (Tesla), etc.
@@ -21,7 +24,7 @@ ModernStock is a modern React-based stock tracker application that allows users 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ModernStock.git
+   git clone https://github.com/adefemi/modernstock.git
    cd ModernStock
    ```
 
@@ -29,12 +32,6 @@ ModernStock is a modern React-based stock tracker application that allows users 
 
    ```sh
    npm install
-   ```
-
-3. Create a `.env` file in the root directory and add your Alpha Vantage API key:
-
-   ```env
-   REACT_APP_ALPHA_VANTAGE_API_KEY=YOUR_API_KEY
    ```
 
 4. Start the application:
@@ -49,7 +46,7 @@ ModernStock is a modern React-based stock tracker application that allows users 
 
 1. Visit the app at `http://localhost:3000` after starting it.
 2. Use the search bar to look up stock information for companies like Apple (AAPL), Google (GOOGL), etc.
-3. View the real-time stock data and additional information presented on the screen.
+3. View the real-time (Could not create real-time polling due to API limitation) stock data and additional information presented on the screen.
 
 ## Project Structure
 

@@ -25,7 +25,7 @@ function App() {
               function: "TIME_SERIES_INTRADAY",
               symbol: symbol,
               interval: "5min",
-              apikey: "RIBXT3XYLI69PC0Q", // Change API when exhausted
+              apikey: "GIV4AZYIJXGCZL6C", // Change API when exhausted // Could store in ENV but not necessary
             },
           },
         );
