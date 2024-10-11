@@ -46,11 +46,11 @@ ModernStock is a modern React-based stock tracker application that allows users 
    npm start
    ```
 
-   The application will run on `http://localhost:3000`.
+   The application will run on `http://localhost:5174`.
 
 ## Usage
 
-1. Visit the app at `http://localhost:3000` after starting it.
+1. Visit the app at `http://localhost:5174` after starting it.
 2. Use the search bar to look up stock information for companies like Apple (AAPL), Google (GOOGL), etc.
 3. View the real-time (Could not create real-time polling due to API limitation) stock data and additional information presented on the screen.
 
