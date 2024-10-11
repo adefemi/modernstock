@@ -71,7 +71,7 @@ const StockContent: React.FC<StockChartProps> = ({ data, symbol }) => {
               <XAxis dataKey="time" stroke="#9CA3AF" />
               <YAxis stroke="#9CA3AF" />
               <Tooltip
-                contentStyle={{ backgroundColor: "#1F2937", border: "none" }}
+                contentStyle={{ backgroundColor: "#1F2937", border: "none", color: "white" }}
               />
               <Line
                 type="monotone"
